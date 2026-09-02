@@ -1,2 +1,2 @@
-# 1-Certificate
+# Certificate
 Thanks To UTech
